@@ -1,0 +1,9 @@
+technical features:
+redux toolkit with async thunk
+authentication via passport jS
+REST API Auth via Passport JWT
+Payments via Stripe
+Email via Nodemailer(Gmail)
+Mongoose Models/Populate
+Model-View-Controller on backend
+deployed vercel with Mongo Atlas 
