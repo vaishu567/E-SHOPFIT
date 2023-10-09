@@ -61,7 +61,7 @@ export default function CheckoutForm() {
       elements,
       confirmParams: {
         // Make sure to change this to your payment completion page
-        return_url: `https://e-shopfit.vercel.app/order-success/${currentOrder.id}`,
+        return_url: `https://e-shopfit-b77e6cuem-rslv3vaishu567-gmailcom.vercel.app/order-success/${currentOrder.id}`,
       },
     });
 
